@@ -104,8 +104,3 @@ Caso queira discutir um projeto ou entender como podemos ajudar sua empresa:
 **Luminae Prime Group**  
 Engineering & Custom Software Development
 
-Website  
-https://seusite.com
-
-Contato  
-contato@seusite.com
